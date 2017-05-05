@@ -5,12 +5,19 @@ git clone https://github.com/TABCHI/tabchi.git && cd tabchi && chmod 777 install
 # Create a bot!
 
 lua creator.lua
+
 Auto Detected Tabchi ID : 0
+
 Enter Full Sudo ID : 319078854
+
 Done!
+
 New Tabchi Created...
+
 ID : 0
+
 Full Sudo : 319078854
+
 Run : ./tabchi-0.sh
 
 # Run
