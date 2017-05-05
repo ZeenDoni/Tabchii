@@ -27,3 +27,11 @@ Use ./tabchi-ID.sh to run your bot normaly or use screen ./tabchi-ID.sh for auto
 # Autolaunch
 
 use ./telegamer.sh for Autolaunch
+
+
+
+
+
+# Developers
+
+Zendoniyam!
